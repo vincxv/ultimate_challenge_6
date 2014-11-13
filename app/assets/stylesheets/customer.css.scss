@@ -1,0 +1,33 @@
+// Place all the styles related to the customers controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+*{
+    padding: 5px;
+    margin: 0px;
+}
+
+img{
+    width: 80px;
+    height: 80px;
+}
+
+.customer{
+    width: 220px;
+    height: 300px;
+    float: left;
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid;
+    border-color: #777;
+    box-shadow: 2px 2px 2px #777;
+}
+
+.left{
+    float: right;
+}
+
+a{
+    text-decoration: none;
+    font-family: "Times";
+}
